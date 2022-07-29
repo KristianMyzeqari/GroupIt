@@ -12,6 +12,6 @@ struct GroupItApp: App {
     var body: some Scene {
         WindowGroup {
             ContentView()
-        }
+        } emimyzzz
     }
 }
