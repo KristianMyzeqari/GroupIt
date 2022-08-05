@@ -18,7 +18,7 @@
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
                             <navigationBar contentMode="redraw" translatesAutoresizingMaskIntoConstraints="NO" id="8rc-rd-8bi">
-                                <rect key="frame" x="0.0" y="44" width="0.0" height="44"/>
+                                <rect key="frame" x="0.0" y="44" width="428" height="44"/>
                                 <color key="backgroundColor" red="0.23137254900000001" green="0.80784313730000001" blue="0.83921568629999999" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                 <color key="barTintColor" red="0.23137254900000001" green="0.80784313730000001" blue="0.83921568629999999" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                 <textAttributes key="titleTextAttributes">
@@ -31,7 +31,7 @@
                                 <items>
                                     <navigationItem title="GroupIt" id="lir-7a-ZRb">
                                         <barButtonItem key="leftBarButtonItem" style="plain" id="oiC-gN-IHl">
-                                            <button key="customView" opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" id="6PT-c4-iIX">
+                                            <button key="customView" opaque="NO" contentMode="scaleToFill" misplaced="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" id="6PT-c4-iIX">
                                                 <rect key="frame" x="19.999999999999996" y="0.0" width="62.666666666666657" height="44"/>
                                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                                 <state key="normal" title="Button"/>
@@ -42,7 +42,7 @@
                                             </button>
                                         </barButtonItem>
                                         <barButtonItem key="rightBarButtonItem" style="plain" id="1IJ-hs-yuR">
-                                            <button key="customView" opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" id="NOv-ER-LQp">
+                                            <button key="customView" opaque="NO" contentMode="scaleToFill" misplaced="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" id="NOv-ER-LQp">
                                                 <rect key="frame" x="332.66666666666669" y="0.0" width="75.333333333333314" height="44"/>
                                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                                 <rect key="contentStretch" x="0.0" y="0.0" width="0.94999999999999996" height="1"/>
